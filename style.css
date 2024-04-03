@@ -178,3 +178,12 @@ p.h4{
     margin-top: 0%;
     padding-top: 0%;
 }
+
+:root {
+    --main-bg-color: white;
+  }
+
+  main{
+    background-color: var(--main-bg-color);
+  }
+  
